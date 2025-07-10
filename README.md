@@ -1,2 +1,2 @@
 # my-first-project
-This is my first project, and I want to become Cloud Specialist as well DevOps Specialist
+Welcome to my Git🙏 This is my first project, and I want to become DevOps Engineer and Cloud Engineer
